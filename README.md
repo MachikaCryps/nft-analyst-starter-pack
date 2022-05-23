@@ -1,3 +1,8 @@
+## Alan's Alchemy API Key
+```script
+-zoreZE3zwovCGi1XYbtm_PK5c4QFtNE
+```
+
 # NFT Analyst Starter Pack
 
 Enter your Alchemy API key and an NFT contract address, and with one command generate CSV extracts for all token transfers, historical sales, and each underlying item's metadata (with calculated rarity scores).
